@@ -183,3 +183,14 @@
 - [done] Effect:
   - avoids FileNotFoundError on fresh clone runtime/test execution.
 
+### Session: v1.10.0 operations runbook
+- Goal: make security/health signals directly usable by operators.
+- [done] Added runbook docs:
+  - `docs/03_OPERATIONS_RUNBOOK.md`
+  - `docs/03_OPERATIONS_RUNBOOK_EN.md`
+- [done] Included:
+  - alert-code action mapping (`CRITICAL/OK/INFO`)
+  - verdict-based response plan (`HEALTHY/STABLE/FRAGILE/CRITICAL`)
+  - recovery procedure and production command template
+- [done] Linked runbook docs from README/README_EN.
+

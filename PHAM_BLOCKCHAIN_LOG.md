@@ -6,6 +6,21 @@
 
 ---
 
+## Version 1.10.0
+
+- Package version: `1.10.0`
+- Added dedicated operations runbook in KR/EN for incident-ready operations.
+
+### New in v1.10.0
+
+- Added:
+  - `docs/03_OPERATIONS_RUNBOOK.md`
+  - `docs/03_OPERATIONS_RUNBOOK_EN.md`
+- Documented:
+  - alert-code response policy
+  - verdict-driven escalation
+  - security replay recovery flow
+
 ## Version 1.9.1
 
 - Package version: `1.9.1`

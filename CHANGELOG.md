@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.10.0
+- Added operations runbook docs (`03_OPERATIONS_RUNBOOK.md`, `03_OPERATIONS_RUNBOOK_EN.md`).
+- Defined alert-code-based response playbooks for replay integrity and health verdict escalation.
+- Linked runbook docs from KR/EN README for faster newcomer onboarding.
+
 ## 1.9.1
 - Hardened report/audit scripts to auto-create output parent directories before writing files.
 - Improved clean-clone operability where `reports/` does not pre-exist.

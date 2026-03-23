@@ -121,6 +121,7 @@ Note:
 - `docs/00_CONCEPT_EN.md`
 - `docs/01_LAYER_STACK_EN.md`
 - `docs/02_FORMULAS_EN.md`
+- `docs/03_OPERATIONS_RUNBOOK_EN.md`
 
 ## Organic engine integration points
 
