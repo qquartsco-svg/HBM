@@ -50,9 +50,8 @@ python -m pytest -q
 ```
 
 참고:
-- 기본 논리/통합 경로는 현재 `30 passed`로 확인됨
-- TCP 소켓 기반 스트림 테스트 2개는 `socket.bind(...)` 권한이 허용된 환경에서만 통과
-- 즉 로컬 샌드박스/제한 환경에서는 `30 passed, 2 deselected(or permission-blocked)`가 정상 판정일 수 있음
+- 현재 테스트 스위트 기준은 **`32 passed`** 이다.
+- 일부 환경에서 TCP 소켓 테스트가 `socket.bind` 권한 제한으로 실패할 수 있다. 그 경우 해당 테스트만 별도 환경에서 재실행하면 된다.
 
 ## High-Load Thermal Stress 리포트
 

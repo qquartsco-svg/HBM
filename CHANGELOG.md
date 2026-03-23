@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.11.1
+- Synced README KR/EN test baseline to current suite (`32 passed`).
+- Portfolio docs (`STAGING_PORTFOLIO_CLASSIFICATION`, `STAGING_CURATION`) HBM notes updated to v1.11.x scope.
+
 ## 1.11.0
 - Added incident response matrix docs (`04_INCIDENT_RESPONSE_MATRIX.md`, `04_INCIDENT_RESPONSE_MATRIX_EN.md`).
 - Mapped alert codes and verdicts to P-level SLAs, functional roles, and automation/manual actions.

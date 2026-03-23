@@ -194,6 +194,11 @@
   - recovery procedure and production command template
 - [done] Linked runbook docs from README/README_EN.
 
+### Session: v1.11.1 doc audit (staging alignment)
+- Goal: remove stale test counts and outdated portfolio version notes.
+- [done] README KR/EN: `32 passed` baseline; clarified optional TCP bind constraints.
+- [done] `_staging/STAGING_PORTFOLIO_CLASSIFICATION.md` + `STAGING_CURATION.md`: HBM_System note refreshed to v1.11.x capabilities.
+
 ### Session: v1.11.0 incident response matrix
 - Goal: provide SLA/role/automation mapping for ops and security handoff.
 - [done] Added matrix docs:

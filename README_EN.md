@@ -50,9 +50,8 @@ python -m pytest -q
 ```
 
 Notes:
-- The core logic/integration path is currently verified at `30 passed`
-- The 2 TCP stream tests require an environment that allows `socket.bind(...)`
-- In a sandboxed or restricted environment, `30 passed, 2 deselected (or permission-blocked)` can still be the expected healthy result
+- Current test suite baseline: **`32 passed`**.
+- On some hosts, TCP socket tests may fail if `socket.bind(...)` is restricted; re-run those tests in an environment that allows local binding.
 
 ## High-Load Thermal Stress report
 

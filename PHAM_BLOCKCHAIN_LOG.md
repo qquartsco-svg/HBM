@@ -6,6 +6,11 @@
 
 ---
 
+## Version 1.11.1
+
+- Package version: `1.11.1`
+- Documentation audit: README test count + external portfolio notes aligned with current release.
+
 ## Version 1.11.0
 
 - Package version: `1.11.0`
