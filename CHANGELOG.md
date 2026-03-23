@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.11.0
+- Added incident response matrix docs (`04_INCIDENT_RESPONSE_MATRIX.md`, `04_INCIDENT_RESPONSE_MATRIX_EN.md`).
+- Mapped alert codes and verdicts to P-level SLAs, functional roles, and automation/manual actions.
+- Linked matrix docs from KR/EN README.
+
 ## 1.10.0
 - Added operations runbook docs (`03_OPERATIONS_RUNBOOK.md`, `03_OPERATIONS_RUNBOOK_EN.md`).
 - Defined alert-code-based response playbooks for replay integrity and health verdict escalation.

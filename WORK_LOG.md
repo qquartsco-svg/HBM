@@ -194,3 +194,15 @@
   - recovery procedure and production command template
 - [done] Linked runbook docs from README/README_EN.
 
+### Session: v1.11.0 incident response matrix
+- Goal: provide SLA/role/automation mapping for ops and security handoff.
+- [done] Added matrix docs:
+  - `docs/04_INCIDENT_RESPONSE_MATRIX.md`
+  - `docs/04_INCIDENT_RESPONSE_MATRIX_EN.md`
+- [done] Documented:
+  - P0–P3 severity ladder with target response times
+  - alert-code × role × automation/manual action table
+  - verdict × escalation matrix
+  - chain event escalation for `HBM_ALERT_CRITICAL`
+- [done] Linked matrix docs from README/README_EN.
+

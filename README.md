@@ -122,6 +122,7 @@ python scripts/run_hbm_stream_loop.py --source file --input examples/hbm_stream_
 - `docs/01_LAYER_STACK.md`
 - `docs/02_FORMULAS.md`
 - `docs/03_OPERATIONS_RUNBOOK.md`
+- `docs/04_INCIDENT_RESPONSE_MATRIX.md`
 
 ## 유기적 엔진 연결점
 

@@ -6,6 +6,17 @@
 
 ---
 
+## Version 1.11.0
+
+- Package version: `1.11.0`
+- Added incident response matrix (KR/EN) for alert/verdict escalation and SLAs.
+
+### New in v1.11.0
+
+- Added:
+  - `docs/04_INCIDENT_RESPONSE_MATRIX.md`
+  - `docs/04_INCIDENT_RESPONSE_MATRIX_EN.md`
+
 ## Version 1.10.0
 
 - Package version: `1.10.0`
